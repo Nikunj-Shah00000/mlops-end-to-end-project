@@ -1,0 +1,5 @@
+Requirements:
+    1. Basics of ML/DL
+    2. Basics of Python
+    3. Git
+    4. Docker
