@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/MLOps-End-To-End-Project/mlruns/0/0b41b7a852444af8911bad97fc2e771e/artifacts
+end_time: 1728191955495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b41b7a852444af8911bad97fc2e771e
+run_name: calm-midge-393
+run_uuid: 0b41b7a852444af8911bad97fc2e771e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728191939047
+status: 3
+tags: []
+user_id: ashut

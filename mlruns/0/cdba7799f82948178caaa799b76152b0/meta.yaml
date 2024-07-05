@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/MLOps-End-To-End-Project/mlruns/0/cdba7799f82948178caaa799b76152b0/artifacts
+end_time: 1728192162551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdba7799f82948178caaa799b76152b0
+run_name: thoughtful-pug-277
+run_uuid: cdba7799f82948178caaa799b76152b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728192156421
+status: 3
+tags: []
+user_id: ashut

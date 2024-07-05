@@ -1,0 +1,19 @@
+pandas
+scikit-learn
+numpy
+seaborn 
+flask
+mlflow
+dvc
+ipykernel
+xgboost
+requests
+# dev requirements -
+
+pytest
+tox
+black
+flake8
+mypy
+
+-e .
