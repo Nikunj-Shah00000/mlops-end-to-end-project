@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlopsproject"
+version = "0.0.1"
+description = "MLOps foundation project"
+readme = "README.md"
+authors = [
+    { name = "Asutosh", email = "ashutoshsidhya69@gmail.com" }
+]
+license = { text = "Specify your license here" }
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+keywords = ["MLOps", "end-to-end", "project"]
+
+[project.urls]
+Homepage = "https://github.com/sidhyaashu/MLOps-End-To-End-Project.git"
+Repository = "https://github.com/sidhyaashu/MLOps-End-To-End-Project.git"
+
+[tool.setuptools.packages.find]
+where = ["src"]
